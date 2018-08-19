@@ -1,0 +1,397 @@
+row, item_id, item_link, brand, product_name, price, shipping, total, score, total_ratings
+0,N82E16813144154,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144154,MSI,MSI B360 GAMING PLUS LGA 1151 (300 Series) Intel B360 SATA 6Gb/s USB 3.1 ATX Intel Motherboard,94,4.99,99.97999999999999,0,0
+
+1,N82E16813119032,https://www.newegg.com/Product/Product.aspx?Item=N82E16813119032,ASUS,ASUS ROG Maximus X Hero (Wi-Fi AC) LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,239,3.99,243.98000000000002,0,0
+
+2,N82E16813119038,https://www.newegg.com/Product/Product.aspx?Item=N82E16813119038,ASUS,ASUS Prime Z370-A LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,164,0,164.99,0,0
+
+3,N82E16813144113,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144113,MSI,MSI Z370 GAMING PLUS LGA 1151 (300 Series) Intel Z370 SATA 6Gb/s USB 3.1 ATX Intel Motherboard,127,0.99,128.98,0,0
+
+4,N82E16813119033,https://www.newegg.com/Product/Product.aspx?Item=N82E16813119033,ASUS,ASUS ROG Strix Z370-E Gaming LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,199,0,199.99,0,0
+
+5,N82E16813157746,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157746,ASRock,ASRock Z270 KILLER SLI/AC LGA 1151 Intel Z270 HDMI SATA 6Gb/s USB 3.1 ATX Motherboards - Intel,119,3.99,123.97999999999999,0,0
+
+6,N82E16813144107,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144107,MSI,MSI Z370 GAMING PRO CARBON LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,179,3.99,183.98000000000002,0,0
+
+7,N82E16813157790,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157790,ASRock,ASRock Z370 Killer SLI/ac LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,149,1.99,151.98000000000002,0,0
+
+8,N82E16813119039,https://www.newegg.com/Product/Product.aspx?Item=N82E16813119039,ASUS,ASUS Prime Z370-P LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,129,0,129.99,0,0
+
+9,N82E16813144115,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144115,MSI,MSI Z370-A PRO LGA 1151 (300 Series) Intel Z370 SATA 6Gb/s USB 3.1 ATX Intel Motherboard,118,0,118.99,0,0
+
+10,N82E16813145035,https://www.newegg.com/Product/Product.aspx?Item=N82E16813145035,GIGABYTE,GIGABYTE Z370 AORUS Gaming 5 (rev. 1.0) LGA 1151 (300 Series) Intel Z370 (Wi-Fi AC) HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,179,0,179.99,0,0
+
+11,N82E16813157789,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157789,ASRock,ASRock Z370 Extreme4 LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,164,3.99,168.98000000000002,0,0
+
+12,N82E16813132871,https://www.newegg.com/Product/Product.aspx?Item=N82E16813132871,ASUS,ASUS H110M-E/M.2 LGA 1151 Intel H110 HDMI SATA 6Gb/s USB 3.1 Micro ATX Motherboards - Intel,58,1.99,60.980000000000004,0,0
+
+13,N82E16813157792,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157792,ASRock,ASRock Z370 Taichi LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,219,3.99,223.98000000000002,0,0
+
+14,N82E16813130993,https://www.newegg.com/Product/Product.aspx?Item=N82E16813130993,MSI,MSI Z270-A PRO LGA 1151 Intel Z270 SATA 6Gb/s USB 3.1 ATX Intel Motherboard,114,0.99,115.97999999999999,0,0
+
+15,N82E16813130991,https://www.newegg.com/Product/Product.aspx?Item=N82E16813130991,MSI,MSI B250M PRO-VD LGA 1151 Intel B250 SATA 6Gb/s USB 3.1 Micro ATX Intel Motherboard,55,4.99,60.980000000000004,0,0
+
+16,N82E16813157809,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157809,ASRock,ASRock H310M-HDV LGA 1151 (300 Series) Intel H310 HDMI SATA 6Gb/s USB 3.1 Micro ATX Intel Motherboard,53,3.99,57.980000000000004,0,0
+
+17,N82E16813145036,https://www.newegg.com/Product/Product.aspx?Item=N82E16813145036,GIGABYTE,GIGABYTE Z370 AORUS Gaming 7 (rev. 1.0) LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,229,0,229.99,0,0
+
+18,N82E16813157737,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157737,ASRock,ASRock H270M-ITX/ac LGA 1151 Intel H270 HDMI SATA 6Gb/s USB 3.1 Mini ITX Motherboards - Intel,86,3.99,90.97999999999999,0,0
+
+19,N82E16813144154,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144154,MSI,MSI B360 GAMING PLUS LGA 1151 (300 Series) Intel B360 SATA 6Gb/s USB 3.1 ATX Intel Motherboard,94,4.99,99.97999999999999,0,0
+
+20,9SIA6ZP6YZ6049,https://www.newegg.com/Product/Product.aspx?Item=9SIA6ZP6YZ6049,EVGA,EVGA Z370 FTW, 134-KS-E377-KR, LGA 1151, Intel Z370, HDMI, SATA 6Gb/s, USB 3.1, USB 3.0, ATX, Intel Motherboard,179,0,179.99,0,0
+
+21,N82E16813119036,https://www.newegg.com/Product/Product.aspx?Item=N82E16813119036,ASUS,ASUS ROG Strix Z370-I Gaming LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 Mini ITX Intel Motherboard,189,1.99,191.98000000000002,0,0
+
+22,N82E16813128980,https://www.newegg.com/Product/Product.aspx?Item=N82E16813128980,GIGABYTE,GIGABYTE GA-B250M-DS3H (rev. 1.0) LGA 1151 Intel B250 HDMI SATA 6Gb/s USB 3.1 Micro ATX Intel Motherboard,64,0,64.99,0,0
+
+23,N82E16813144106,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144106,MSI,MSI Z370 GAMING M5 LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,190,3.99,194.98000000000002,0,0
+
+24,N82E16813157816,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157816,ASRock,ASRock H370M Pro4 LGA 1151 (300 Series) Intel H370 HDMI SATA 6Gb/s USB 3.1 Micro ATX Intel Motherboard,79,3.99,83.97999999999999,0,0
+
+25,N82E16813128873,https://www.newegg.com/Product/Product.aspx?Item=N82E16813128873,GIGABYTE,GIGABYTE GA-H110M-A (rev. 1.0) LGA 1151 Intel H110 HDMI SATA 6Gb/s USB 3.0 Micro ATX Intel Motherboard,51,3.99,55.980000000000004,0,0
+
+26,N82E16813130918,https://www.newegg.com/Product/Product.aspx?Item=N82E16813130918,MSI,MSI H110M Gaming LGA 1151 Intel H110 HDMI SATA 6Gb/s USB 3.1 Micro ATX Intel Motherboard,62,3.99,66.98,0,0
+
+27,N82E16813119045,https://www.newegg.com/Product/Product.aspx?Item=N82E16813119045,ASUS,ASUS ROG Maximus X Code LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,279,0.99,280.98,0,0
+
+28,N82E16813157796,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157796,ASRock,ASRock Z370 Pro4 LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,115,1.99,117.97999999999999,0,0
+
+29,N82E16813145076,https://www.newegg.com/Product/Product.aspx?Item=N82E16813145076,GIGABYTE,GIGABYTE Z370 AORUS GAMING 7-OP LGA 1151 (300 Series) Intel Z370 ATX Motherboard with 32GB Intel Optane Memory,229,3.99,233.98000000000002,0,0
+
+30,N82E16813119034,https://www.newegg.com/Product/Product.aspx?Item=N82E16813119034,ASUS,ASUS ROG Strix Z370-F Gaming LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,178,3.99,182.98000000000002,0,0
+
+31,N82E16813119035,https://www.newegg.com/Product/Product.aspx?Item=N82E16813119035,ASUS,ASUS ROG Strix Z370-H Gaming LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,159,0.99,160.98000000000002,0,0
+
+32,N82E16813144155,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144155,MSI,MSI B360-A PRO LGA 1151 (300 Series) Intel B360 SATA 6Gb/s USB 3.1 ATX Intel Motherboard,79,3.99,83.97999999999999,0,0
+
+33,N82E16813157733,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157733,ASRock,ASRock B250M-HDV LGA 1151 Intel B250 HDMI SATA 6Gb/s USB 3.1 Micro ATX Motherboards - Intel,47,3.99,51.980000000000004,0,0
+
+34,N82E16813132991,https://www.newegg.com/Product/Product.aspx?Item=N82E16813132991,ASUS,ASUS ROG STRIX X299-E GAMING LGA2066 DDR4 M.2 USB 3.1 802.11AC WIFI X299 ATX Motherboard for Intel Core i9 and i7 X-Series Processors,282,3.99,286.98,0,0
+
+35,N82E16813144105,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144105,MSI,MSI Z370 GAMING PRO CARBON AC LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,198,3.99,202.98000000000002,0,0
+
+36,N82E16813145040,https://www.newegg.com/Product/Product.aspx?Item=N82E16813145040,GIGABYTE,GIGABYTE Z370 HD3P (rev. 1.0) LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,119,1.99,121.97999999999999,0,0
+
+37,N82E16813157793,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157793,ASRock,ASRock Z370M Pro4 LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 Micro ATX Intel Motherboard,119,3.99,123.97999999999999,0,0
+
+38,N82E16813131988,https://www.newegg.com/Product/Product.aspx?Item=N82E16813131988,ASUS,ASUS Q87M-E/CSM LGA 1150 Intel Q87 HDMI SATA 6Gb/s USB 3.1 Micro ATX Intel Motherboard,109,3.99,113.97999999999999,0,0
+
+39,9SIA6ZP6FR8570,https://www.newegg.com/Product/Product.aspx?Item=9SIA6ZP6FR8570,EVGA,EVGA X299 Micro, 131-SX-E295-KR, LGA 2066, Intel X299, SATA 6Gb/s, USB 3.1, USB 3.0, mATX, Intel Motherboard,0,0,0.99,0,0
+
+40,N82E16813145048,https://www.newegg.com/Product/Product.aspx?Item=N82E16813145048,GIGABYTE,GIGABYTE Z370P D3 (rev. 1.0) LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,109,0,109.99,0,0
+
+41,N82E16813157788,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157788,ASRock,ASRock Fatal1ty Z370 Gaming K6 LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,169,3.99,173.98000000000002,0,0
+
+42,N82E16813144108,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144108,MSI,MSI Z370M GAMING PRO AC LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 Micro ATX Intel Motherboard,160,3.99,164.98000000000002,0,0
+
+43,N82E16813145064,https://www.newegg.com/Product/Product.aspx?Item=N82E16813145064,GIGABYTE,GIGABYTE B360M DS3H LGA 1151 (300 Series) Intel B360 HDMI SATA 6Gb/s USB 3.1 Micro ATX Intel Motherboard,68,3.99,72.97999999999999,0,0
+
+44,N82E16813157815,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157815,ASRock,ASRock H370 Pro4 LGA 1151 (300 Series) Intel H370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,93,3.99,97.97999999999999,0,0
+
+45,N82E16813144114,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144114,MSI,MSI Z370M MORTAR LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 Micro ATX Intel Motherboard,114,3.99,118.97999999999999,0,0
+
+46,N82E16813144110,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144110,MSI,MSI Z370 TOMAHAWK LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,139,3.99,143.98000000000002,0,0
+
+47,N82E16813130997,https://www.newegg.com/Product/Product.aspx?Item=N82E16813130997,MSI,MSI Z270 GAMING PLUS LGA 1151 Intel Z270 SATA 6Gb/s USB 3.1 ATX Intel Motherboard,124,1.99,126.97999999999999,0,0
+
+48,N82E16813119046,https://www.newegg.com/Product/Product.aspx?Item=N82E16813119046,ASUS,ASUS ROG Maximus X Formula LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,349,0.99,350.98,0,0
+
+49,N82E16813144111,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144111,MSI,MSI Z370 SLI PLUS LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,146,0,146.99,0,0
+
+50,N82E16813157818,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157818,ASRock,ASRock B360 Pro4 LGA 1151 (300 Series) Intel B360 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,84,3.99,88.97999999999999,0,0
+
+51,N82E16813157814,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157814,ASRock,ASRock H310M-ITX/ac LGA 1151 (300 Series) Intel H310 HDMI SATA 6Gb/s USB 3.1 Mini ITX Intel Motherboard,78,3.99,82.97999999999999,0,0
+
+52,N82E16813157795,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157795,ASRock,ASRock Z370M-ITX/ac LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 Mini ITX Intel Motherboard,134,1.99,136.98000000000002,0,0
+
+53,N82E16813157820,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157820,ASRock,ASRock B360M Pro4 LGA 1151 (300 Series) Intel B360 HDMI SATA 6Gb/s USB 3.1 Micro ATX Intel Motherboard,77,3.99,81.97999999999999,0,0
+
+54,N82E16813157794,https://www.newegg.com/Product/Product.aspx?Item=N82E16813157794,ASRock,ASRock Fatal1ty Z370 Gaming-ITX/ac LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 Mini ITX Intel Motherboard,164,3.99,168.98000000000002,0,0
+
+55,N82E16813119037,https://www.newegg.com/Product/Product.aspx?Item=N82E16813119037,ASUS,ASUS TUF Z370 Plus Gaming LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,139,0.99,140.98000000000002,0,0
+
+56,N82E16813119079,https://www.newegg.com/Product/Product.aspx?Item=N82E16813119079,ASUS,ASUS ROG STRIX B360-G GAMING LGA1151 (300 Series) DDR4 HDMI DVI M.2 Micro-ATX Motherboard,103,0.99,104.97999999999999,0,0
+
+57,N82E16813144159,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144159,MSI,MSI B360M MORTAR LGA 1151 (300 Series) Intel B360 HDMI SATA 6Gb/s Micro ATX Intel Motherboard,89,3.99,93.97999999999999,0,0
+
+58,N82E16813144116,https://www.newegg.com/Product/Product.aspx?Item=N82E16813144116,MSI,MSI Z370I GAMING PRO CARBON AC LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 Mini ITX Intel Motherboard,170,2.99,173.98000000000002,0,0
+
+59,N82E16813145043,https://www.newegg.com/Product/Product.aspx?Item=N82E16813145043,GIGABYTE,GIGABYTE Z370 AORUS GAMING WIFI (rev. 1.0) LGA 1151 (300 Series) Intel Z370 HDMI SATA 6Gb/s USB 3.1 ATX Intel Motherboard,139,0,139.99,0,0
+
+60,N82E16813132990,https://www.newegg.com/Product/Product.aspx?Item=N82E16813132990,ASUS,ASUS Prime X299-Deluxe LGA 2066 Intel X299 SATA 6Gb/s USB 3.1 ATX Intel Motherboard,445,1.99,447.98,0,0
+
+0,N82E16814125955,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125955,GIGABYTE,GIGABYTE GeForce GTX 1080 Ti DirectX 12 GV-N108TGAMING OC-11GD 11GB 352-Bit GDDR5X PCI Express 3.0 x16 ATX Video Card,729,4.99,734.98,0,0
+
+1,N82E16814487338,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487338,EVGA,EVGA GeForce GTX 1080 Ti FTW3 GAMING, 11G-P4-6696-KR, 11GB GDDR5X, iCX Technology - 9 Thermal Sensors & RGB LED G/P/M,729,4.99,734.98,0,0
+
+2,N82E16814125914,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125914,GIGABYTE,GIGABYTE GeForce GTX 1050 Ti DirectX 12 GV-N105TWF2OC-4GD 4GB 128-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,189,4.99,194.98000000000002,0,0
+
+3,N82E16814932012,https://www.newegg.com/Product/Product.aspx?Item=N82E16814932012,GIGABYTE,GIGABYTE GeForce GTX 1070 Ti DirectX 12 GV-N107TWF2-8GD 8GB 256-Bit GDDR5 PCI Express 3.0 x16 SLI Support ATX Video Card,459,4.99,464.98,0,0
+
+4,N82E16814137258,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137258,MSI,MSI GeForce GTX 1070 Ti DirectX 12 GTX 1070 Ti DUKE 8G 8GB 256-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card,459,0,459.99,0,0
+
+5,N82E16814126226,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126226,ASUS,ASUS GeForce GTX 1070 Ti TURBO-GTX1070TI-8G 8GB 256-Bit GDDR5 PCI Express 3.0 HDCP Ready SLI Support Video Card,489,4.99,494.98,0,0
+
+6,N82E16814487275,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487275,EVGA,EVGA GeForce GTX 1060 6GB SSC GAMING ACX 3.0, 6GB GDDR5, LED, DX12 OSD Support (PXOC), 06G-P4-6267-KR,309,4.99,314.98,0,0
+
+7,N82E16814125916,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125916,GIGABYTE,GIGABYTE GeForce GTX 1050 Ti DirectX 12 GV-N105TD5-4GD 4GB 128-Bit GDDR5 PCI Express 3.0 x16 ATX Video Cards,179,4.99,184.98000000000002,0,0
+
+8,N82E16814137308,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137308,MSI,MSI Radeon RX 560 DirectX 12 Radeon RX 560 4GT LP OC 4GB 128-Bit GDDR5 PCI Express x16 (Uses x8) HDCP Ready CrossFireX Support Low Profile Video Card,124,4.99,129.98,0,0
+
+9,N82E16814125902,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125902,GIGABYTE,GIGABYTE GeForce GTX 1060 DirectX 12 GV-N1060G1 GAMING-3GD 2.0 3GB 192-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,249,4.99,254.98000000000002,0,0
+
+10,N82E16814125936,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125936,GIGABYTE,GIGABYTE GeForce GTX 1080 DirectX 12 GV-N1080D5X-8GD 8GB 256-Bit GDDR5X PCI Express 3.0 x16 SLI Support ATX Video Cards,474,0,474.99,0,0
+
+11,N82E16814487290,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487290,EVGA,EVGA GeForce GTX 1050 Ti GAMING, 04G-P4-6251-KR, 4GB GDDR5, DX12 OSD Support (PXOC),189,4.99,194.98000000000002,0,0
+
+12,N82E16814137307,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137307,MSI,MSI GeForce GTX 1080 DirectX 12 GeForce GTX 1080 DUKE 8G 8GB 256-Bit GDDR5X PCI Express 3.0 x16 HDCP Ready SLI Support Video Card,509,4.99,514.98,0,0
+
+13,N82E16814131736,https://www.newegg.com/Product/Product.aspx?Item=N82E16814131736,PowerColor,PowerColor Radeon RX 570 DirectX 12 AXRX 570 8GBD5-DMV3 8GB 256-Bit GDDR5 PCI Express 3.0 CrossFireX Support ATX Cryptocurrency Video Card - Brown Box (Only Comes with Driver + Manual),299,4.99,304.98,0,0
+
+14,N82E16814487248,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487248,EVGA,EVGA GeForce GTX 1070 SC GAMING ACX 3.0, 08G-P4-6173-KR, 8GB GDDR5, LED, DX12 OSD Support (PXOC),459,4.99,464.98,0,0
+
+15,N82E16814125971,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125971,GIGABYTE,GIGABYTE AORUS GeForce GTX 1060 6G REV 2.0, GV-N1060AORUS-6GD R2,319,4.99,324.98,0,0
+
+16,N82E16814487319,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487319,EVGA,EVGA GeForce GTX 1080 FTW2 GAMING iCX, 08G-P4-6686-KR, 8GB GDDR5X, RGB LED, 9 Thermal Sensors, Asynchronous Fan Control, Thermal Display LED System, Optimized Airflow Fin Design, Die Cast/Form Fitted,489,4.99,494.98,0,0
+
+17,N82E16814137084,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137084,MSI,MSI GeForce GTX 1080 DirectX 12 GTX 1080 DUKE 8G OC 8GB 256-Bit GDDR5X PCI Express 3.0 x16 HDCP Ready SLI Support Video Cards,484,0,484.99,0,0
+
+18,N82E16814125875,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125875,GIGABYTE,GIGABYTE GeForce GTX 1070 8GB WINDFORCE OC, GV-N1070WF2OC-8GD R2,429,4.99,434.98,0,0
+
+19,N82E16814125968,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125968,GIGABYTE,GIGABYTE Radeon RX 550 DirectX 12 GV-RX550D5-2GD 2GB 128-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,119,3.99,123.97999999999999,0,0
+
+20,N82E16814202318,https://www.newegg.com/Product/Product.aspx?Item=N82E16814202318,Sapphire Tech,SAPPHIRE PULSE Radeon RX Vega 56 DirectX 12 100420PSR 8GB 2048-Bit HBM2 PCI Express 3.0 CrossFireX Support ATX Video Card,479,4.99,484.98,0,0
+
+21,N82E16814125953,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125953,GIGABYTE,GIGABYTE AORUS GeForce GTX 1080 Ti DirectX 12 GV-N108TAORUS X-11GD 11GB 352-Bit GDDR5X PCI Express 3.0 x16 ATX Xtreme Edition Video Card,779,4.99,784.98,0,0
+
+22,N82E16814137337,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137337,MSI,MSI Radeon RX 570 DirectX 12 Radeon RX 570 ARMOR 8G 8GB 256-Bit GDDR5 PCI Express x16 HDCP Ready CrossFireX Support Video Card,254,4.99,259.98,0,0
+
+23,N82E16814133639,https://www.newegg.com/Product/Product.aspx?Item=N82E16814133639,PNY Technologies, Inc.,PNY GeForce GTX 1050 Ti DirectX 12 VCGGTX1050T4PB 4GB 128-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready Video Card,187,4.99,192.98000000000002,0,0
+
+24,N82E16814930003,https://www.newegg.com/Product/Product.aspx?Item=N82E16814930003,ASRock,ASRock Phantom Gaming Radeon RX 560 DirectX 12 RX560 4G 4GB 128-Bit GDDR5 PCI Express 3.0 x16 (Uses x8) HDCP Ready Video Card,134,4.99,139.98000000000002,0,0
+
+25,N82E16814487387,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487387,EVGA,EVGA GeForce GTX 1070 Ti SC GAMING 08G-P4-5671-KR 8GB GDDR5 ACX 3.0 & Black Edition,429,4.99,434.98,0,0
+
+26,N82E16814126245,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126245,ASUS,ASUS AREZ Radeon RX Vega 64 AREZ-STRIX-RXVEGA64-O8G-GAMING 8GB 2048-Bit HBM2 HDCP Ready Video Card,579,4.99,584.98,0,0
+
+27,N82E16814126225,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126225,ASUS,ASUS ROG GeForce GTX 1070 Ti ROG-STRIX-GTX1070TI-A8G-GAMING 8GB 256-Bit GDDR5 PCI Express 3.0 HDCP Ready SLI Support Video Card,549,4.99,554.98,0,0
+
+28,9SIA6ZP6FR8561,https://www.newegg.com/Product/Product.aspx?Item=9SIA6ZP6FR8561,EVGA,EVGA GeForce GTX 1070 SC2 GAMING iCX, 08G-P4-6573-KR, 8GB GDDR5, 9 Thermal Sensors, Asynchronous Fan Control, Thermal Display LED System, Optimized Airflow Fin Design, Die Cast/Form Fitted Baseplate,0,0,0.99,0,0
+
+29,N82E16814137091,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137091,MSI,MSI GeForce GTX 1050 Ti DirectX 12 GTX 1050 Ti AERO ITX 4G OC 4GB 128-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready Video Card,174,4.99,179.98000000000002,0,0
+
+30,N82E16814125880,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125880,GIGABYTE,GIGABYTE GeForce GTX 1080 DirectX 12 GV-N1080WF3OC-8GD 8GB 256-Bit GDDR5X PCI Express 3.0 x16 SLI Support ATX Video Card,499,4.99,504.98,0,0
+
+31,N82E16814131717,https://www.newegg.com/Product/Product.aspx?Item=N82E16814131717,PowerColor,PowerColor RED DRAGON Radeon RX 570 DirectX 12 AXRX 570 4GBD5-3DHD/OC 4GB 256-Bit GDDR5 PCI Express 3.0 CrossFireX Support ATX Video Card,249,0,249.99,0,0
+
+32,9SIAFVF75G6126,https://www.newegg.com/Product/Product.aspx?Item=9SIAFVF75G6126,ZOTAC,ZOTAC GeForce GTX 1070 Ti DirectX 12 ZT-P10710C-10P 8GB 256-Bit GDDR5 PCI Express 3.0 HDCP Ready SLI Support Video Card - AMP! Edition,469,0,469.99,0,0
+
+33,N82E16814126232,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126232,ASUS,ASUS ROG Radeon RX Vega 64 STRIX-RXVEGA64-O8G-GAMING 8GB 2048-Bit HBM2 PCI Express 3.0 HDCP Ready Video Card,579,4.99,584.98,0,0
+
+34,N82E16814932009,https://www.newegg.com/Product/Product.aspx?Item=N82E16814932009,GIGABYTE,GIGABYTE GeForce GTX 1080 DirectX 12 GV-N1080IX-8GD 8GB 256-Bit GDDR5X PCI Express 3.0 x16 SLI Support ATX Video Card,499,4.99,504.98,0,0
+
+35,N82E16814125955,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125955,GIGABYTE,GIGABYTE GeForce GTX 1080 Ti DirectX 12 GV-N108TGAMING OC-11GD 11GB 352-Bit GDDR5X PCI Express 3.0 x16 ATX Video Card,729,4.99,734.98,0,0
+
+36,N82E16814127943,https://www.newegg.com/Product/Product.aspx?Item=N82E16814127943,MSI,MSI GeForce GTX 1080 DirectX 12 GTX 1080 GAMING X 8G 8GB 256-Bit GDDR5X PCI Express 3.0 x16 HDCP Ready SLI Support ATX Video Card,529,4.99,534.98,0,0
+
+0,N82E16814125955,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125955,GIGABYTE,GIGABYTE GeForce GTX 1080 Ti DirectX 12 GV-N108TGAMING OC-11GD 11GB 352-Bit GDDR5X PCI Express 3.0 x16 ATX Video Card,729,4.99,734.98,0,0
+
+1,N82E16814125913,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125913,GIGABYTE,GIGABYTE GeForce GTX 1050 Ti DirectX 12 GV-N105TG1 GAMING-4GD 4GB 128-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,199,4.99,204.98000000000002,0,0
+
+2,N82E16814125963,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125963,GIGABYTE,GIGABYTE AORUS Radeon RX 580 DirectX 12 GV-RX580AORUS-4GD 4GB 256-Bit GDDR5 PCI Express 3.0 x16 CrossFireX Support ATX Video Card,269,4.99,274.98,0,0
+
+3,N82E16814131738,https://www.newegg.com/Product/Product.aspx?Item=N82E16814131738,PowerColor,PowerColor Radeon RX 550 DirectX 12 AXRX 550 2GBD5-DHA/OC 2GB 128-Bit GDDR5 PCI Express 3.0 CrossFireX Support ATX Video Card,99,3.99,103.97999999999999,0,0
+
+4,N82E16814137319,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137319,MSI,MSI GeForce GT 1030 DirectX 12 GT 1030 2GHD4 LP OC 2GB 64-Bit DDR4 PCI Express 3.0 x16 (Uses x4) HDCP Ready Low Profile Video Card,82,3.99,86.97999999999999,0,0
+
+5,N82E16814932013,https://www.newegg.com/Product/Product.aspx?Item=N82E16814932013,GIGABYTE,GIGABYTE GeForce GTX 1070 Ti DirectX 12 GV-N107TGAMING-8GD 8GB 256-Bit GDDR5 PCI Express 3.0 x16 SLI Support ATX Video Card,479,4.99,484.98,0,0
+
+6,N82E16814126109,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126109,ASUS,ASUS ROG GeForce GTX 1070 STRIX-GTX1070-O8G-GAMING 8GB 256-Bit GDDR5 PCI Express 3.0 HDCP Ready Video Card with RGB Lighting,504,4.99,509.98,0,0
+
+7,N82E16814137054,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137054,MSI,MSI GeForce GTX 1050 Ti DirectX 12 GTX 1050 Ti GAMING X 4G 4GB 128-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready ATX Video Card,199,4.99,204.98000000000002,0,0
+
+8,N82E16814133651,https://www.newegg.com/Product/Product.aspx?Item=N82E16814133651,PNY Technologies, Inc.,PNY GeForce GTX 1080 Ti DirectX 12 VCGGTX1080T11PB-CG2 11GB 352-Bit GDDR5X PCI Express 3.0 x16 Blower Edition Video Card,799,4.99,804.98,0,0
+
+9,N82E16814125881,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125881,GIGABYTE,GIGABYTE GeForce GTX 1060 DirectX 12 GV-N1060G1 GAMING-6GD REV 2.0 6GB 192-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,299,4.99,304.98,0,0
+
+10,N82E16814125920,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125920,GIGABYTE,GIGABYTE GeForce GTX 1050 DirectX 12 GV-N1050D5-2GD 2GB 128-Bit GDDR5 PCI Express 3.0 x16 ATX Video Cards,139,4.99,144.98000000000002,0,0
+
+11,N82E16814487376,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487376,EVGA,EVGA GeForce GTX 1080 Ti iCX GAMING, 11G-P4-6591-KR, 11GB GDDR5X, iCX Technology - 9 Thermal Sensors & RGB LED G/P/M,789,4.99,794.98,0,0
+
+12,N82E16814137118,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137118,MSI,MSI Radeon RX 580 DirectX 12 RX 580 ARMOR 8G OC 8GB 256-Bit GDDR5 PCI Express x16 HDCP Ready CrossFireX Support Video Card,279,3.99,283.98,0,0
+
+13,N82E16814930004,https://www.newegg.com/Product/Product.aspx?Item=N82E16814930004,ASRock,ASRock Phantom Gaming X Radeon RX 570 DirectX 12 RX570 4G OC 4GB 256-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready Video Card,249,4.99,254.98000000000002,0,0
+
+14,N82E16814133732,https://www.newegg.com/Product/Product.aspx?Item=N82E16814133732,PNY Technologies, Inc.,PNY GeForce GTX 1080 DirectX 12 VCGGTX10808XGPB-OC2 8GB 256-Bit GDDR5X PCI Express 3.0 x16 SLI Support Video Card,499,4.99,504.98,0,0
+
+15,N82E16814202280,https://www.newegg.com/Product/Product.aspx?Item=N82E16814202280,Sapphire Tech,Sapphire Radeon NITRO+ RX 580 8GB GDDR5 PCI-E Dual HDMI / DVI-D / Dual DP w/ Backplate (UEFI), 100411NT+8GL,279,4.99,284.98,0,0
+
+16,N82E16814126113,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126113,ASUS,ASUS ROG GeForce GTX 1060 STRIX-GTX1060-O6G-GAMING 6GB 192-Bit GDDR5 PCI Express 3.0 HDCP Ready Video Card,379,4.99,384.98,0,0
+
+17,N82E16814137326,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137326,MSI,MSI Radeon RX Vega 64 DirectX 12 Radeon RX Vega 64 Air Boost 8G OC 8GB 2048-Bit HBM2 PCI Express x16 HDCP Ready CrossFireX Support Video Card,579,4.99,584.98,0,0
+
+18,N82E16814487291,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487291,EVGA,EVGA GeForce GTX 1050 Ti SC GAMING, 04G-P4-6253-KR, 4GB GDDR5, DX12 OSD Support (PXOC),199,4.99,204.98000000000002,0,0
+
+19,N82E16814137263,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137263,MSI,MSI Radeon RX Vega 56 DirectX 12 RX Vega 56 Air Boost 8G OC 8GB 2048-Bit HBM2 PCI Express x16 HDCP Ready CrossFireX Support ATX Video Card,479,4.99,484.98,0,0
+
+20,9SIA2F84J88916,https://www.newegg.com/Product/Product.aspx?Item=9SIA2F84J88916,EVGA,EVGA GeForce GTX 1060 SC GAMING, ACX 2.0 (Single Fan), 03G-P4-6162-KR, 3GB GDDR5, DX12 OSD Support (PXOC),230,0,230.99,0,0
+
+21,N82E16814137254,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137254,MSI,MSI GeForce GTX 1070 Ti DirectX 12 GTX 1070 Ti GAMING 8G 8GB 256-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support ATX Video Card,479,4.99,484.98,0,0
+
+22,N82E16814500429,https://www.newegg.com/Product/Product.aspx?Item=N82E16814500429,ZOTAC,ZOTAC GeForce GTX 1070 Ti DirectX 12 ZT-P10710B-10P 8GB 256-Bit GDDR5 PCI Express 3.0 HDCP Ready SLI Support Video Card - AMP! EXTREME Edition,489,4.99,494.98,0,0
+
+23,N82E16814125965,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125965,GIGABYTE,GIGABYTE AORUS Radeon RX 570 DirectX 12 GV-RX570AORUS-4GD 4GB 256-Bit GDDR5 PCI Express 3.0 x16 CrossFireX Support ATX Video Card,239,4.99,244.98000000000002,0,0
+
+24,N82E16814126233,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126233,ASUS,ASUS ROG Radeon RX Vega 56 STRIX-RXVEGA56-O8G-GAMING 8GB 2048-Bit HBM2 PCI Express 3.0 HDCP Ready CrossFireX Support Video Card,489,4.99,494.98,0,0
+
+25,N82E16814126241,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126241,ASUS,ASUS Radeon RX 570 EX-RX570-O8G 8GB 256-Bit GDDR5 HDCP Ready CrossFireX Support Video Card,319,4.99,324.98,0,0
+
+26,N82E16814202312,https://www.newegg.com/Product/Product.aspx?Item=N82E16814202312,Sapphire Tech,SAPPHIRE NITRO+ Radeon RX 580 DirectX 12 100411NT+4G-2L 4GB 256-Bit GDDR5 CrossFireX Support ATX Video Card w/ Backplate (UEFI), SAMSUNG MEMORY,279,0.05,280.04,0,0
+
+27,9SIAD7H5UD5602,https://www.newegg.com/Product/Product.aspx?Item=9SIAD7H5UD5602,GIGABYTE,GIGABYTE Radeon RX 580 DirectX 12 GV-RX580GAMING-4GD 4GB 256-Bit GDDR5 PCI Express 3.0 x16 CrossFireX Support ATX Video Card,263,0,263.99,0,0
+
+28,N82E16814127945,https://www.newegg.com/Product/Product.aspx?Item=N82E16814127945,MSI,MSI GeForce GTX 1080 DirectX 12 GTX 1080 ARMOR 8G OC 8GB 256-Bit GDDR5X PCI Express 3.0 x16 HDCP Ready SLI Support ATX Video Card,514,4.99,519.98,0,0
+
+29,N82E16814202309,https://www.newegg.com/Product/Product.aspx?Item=N82E16814202309,Sapphire Tech,Sapphire Radeon PULSE RX 570 8GB GDDR5 PCI-E Dual HDMI / DVI-D / Dual DP OC w/ Backplate (UEFI),269,4.99,274.98,0,0
+
+30,N82E16814500408,https://www.newegg.com/Product/Product.aspx?Item=N82E16814500408,ZOTAC,ZOTAC GeForce GTX 1070 Mini, ZT-P10700G-10M, 8GB GDDR5,419,4.99,424.98,0,0
+
+31,N82E16814932062,https://www.newegg.com/Product/Product.aspx?Item=N82E16814932062,GIGABYTE,GIGABYTE GeForce GTX 1050 DirectX 12 GV-N1050OC-3GD 3GB 96-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,159,4.99,164.98000000000002,0,0
+
+32,N82E16814932004,https://www.newegg.com/Product/Product.aspx?Item=N82E16814932004,GIGABYTE,GIGABYTE GeForce GT 1030 DirectX 12 GV-N1030OC-2GI 2GB 64-Bit GDDR5 PCI Express x16 ATX Video Card,89,3.99,93.97999999999999,0,0
+
+33,N82E16814125962,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125962,GIGABYTE,GIGABYTE Radeon RX 580 DirectX 12 GV-RX580GAMING-8GD 8GB 256-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,289,4.99,294.98,0,0
+
+34,N82E16814930005,https://www.newegg.com/Product/Product.aspx?Item=N82E16814930005,ASRock,ASRock Phantom Gaming X Radeon RX 570 DirectX 12 RX570 8G OC 8GB 256-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready Video Card,259,0,259.99,0,0
+
+35,N82E16814126231,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126231,ASUS,ASUS GeForce GTX 1070 Ti CERBERUS-GTX1070TI-A8G-GAMING 8GB 256-Bit GDDR5 PCI Express 3.0 HDCP Ready Video Card,507,4.99,512.98,0,0
+
+36,N82E16814131732,https://www.newegg.com/Product/Product.aspx?Item=N82E16814131732,PowerColor,PowerColor Red Dragon Radeon RX 560 14CU DirectX 12 AXRX 560 4GBD5-DHA 4GB 128-Bit GDDR5 PCI Express 3.0 CrossFireX Support ATX Video Card,114,3.99,118.97999999999999,0,0
+
+0,N82E16814125955,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125955,GIGABYTE,GIGABYTE GeForce GTX 1080 Ti DirectX 12 GV-N108TGAMING OC-11GD 11GB 352-Bit GDDR5X PCI Express 3.0 x16 ATX Video Card,729,4.99,734.98,0,0
+
+1,N82E16814131740,https://www.newegg.com/Product/Product.aspx?Item=N82E16814131740,PowerColor,PowerColor RED DRAGON Radeon RX Vega 56 DirectX 12 AXRX VEGA 56 8GBHBM2-2D2HD/OC 8GB 2048-Bit HBM2 PCI Express 3.0 CrossFireX Support ATX Video Card,489,0,489.99,0,0
+
+2,N82E16814932011,https://www.newegg.com/Product/Product.aspx?Item=N82E16814932011,GIGABYTE,GIGABYTE AORUS GeForce GTX 1080 Gaming Box DirectX 12 GV-N1080IXEB-8GD eGPU,649,4.99,654.98,0,0
+
+3,N82E16814125871,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125871,GIGABYTE,GIGABYTE GeForce GTX 1070 DirectX 12 GV-N1070G1 GAMING-8GD R2 256-Bit GDDR5 PCI Express 3.0 x16 SLI Support ATX Video Card,439,4.99,444.98,0,0
+
+4,N82E16814126187,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126187,ASUS,ASUS ROG GeForce GTX 1080 Ti DirectX 12 STRIX-GTX1080TI-11G-GAMING 11GB 352-Bit GDDR5X HDCP Ready SLI Support Video Card,809,4.99,814.98,0,0
+
+5,N82E16814125899,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125899,GIGABYTE,GIGABYTE GeForce GT 710 DirectX 12 GV-N710D3-2GL REV2.0 2GB 64-Bit DDR3 PCI Express 2.0 Low Profile Video Card,49,3.99,53.980000000000004,0,0
+
+6,N82E16814487261,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487261,EVGA,EVGA GeForce GTX 1060 SC GAMING, ACX 2.0 (Single Fan), 06G-P4-6163-KR, 6GB GDDR5, DX12 OSD Support (PXOC), Only 6.8 Inches,299,4.99,304.98,0,0
+
+7,N82E16814500392,https://www.newegg.com/Product/Product.aspx?Item=N82E16814500392,ZOTAC,ZOTAC GeForce GT 710 DirectX 12 ZT-71301-20L 1GB 64-Bit DDR3 PCI Express 2.0 x8 Video Card,38,2.99,41.980000000000004,0,0
+
+8,N82E16814131720,https://www.newegg.com/Product/Product.aspx?Item=N82E16814131720,PowerColor,PowerColor RED DRAGON Radeon RX 580 DirectX 12 AXRX 580 8GBD5-3DHDV2/OC 8GB 256-Bit GDDR5 PCI Express 3.0 CrossFireX Support ATX Video Card,269,0,269.99,0,0
+
+9,N82E16814127584,https://www.newegg.com/Product/Product.aspx?Item=N82E16814127584,MSI,MSI Radeon HD 6450 DirectX 11 R6450-MD1GD3/LP 1GB 64-Bit DDR3 PCI Express 2.1 x16 HDCP Ready Low Profile Ready Video Card,39,2.99,42.980000000000004,0,0
+
+10,N82E16814932003,https://www.newegg.com/Product/Product.aspx?Item=N82E16814932003,GIGABYTE,GIGABYTE Radeon RX 560 16CU DirectX 12 GV-RX560GAMING OC-4GD REV2.0 4GB 128-Bit GDDR5 ATX Video Card,139,3.99,143.98000000000002,0,0
+
+11,N82E16814500417,https://www.newegg.com/Product/Product.aspx?Item=N82E16814500417,ZOTAC,ZOTAC GeForce GTX 1050 Ti DirectX 12 ZT-P10510E-10L 4GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Low Profile Video Card,169,4.99,174.98000000000002,0,0
+
+12,N82E16814125879,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125879,GIGABYTE,GIGABYTE GeForce GTX 1060 DirectX 12 GV-N1060D5-6GD REV2 6GB 192-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,279,4.99,284.98,0,0
+
+13,N82E16814125951,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125951,GIGABYTE,GIGABYTE GeForce GTX 1050 OC Low Profile 2GB Video Card, GBTGV-N1050OC-2GL,139,4.99,144.98000000000002,0,0
+
+14,N82E16814133733,https://www.newegg.com/Product/Product.aspx?Item=N82E16814133733,PNY Technologies, Inc.,PNY GeForce GTX 1060 DirectX 12 VCGGTX10606XGPB-OC2 6GB 192-Bit GDDR5 PCI Express 3.0 x16 Video Card,279,4.99,284.98,0,0
+
+15,N82E16814137060,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137060,MSI,MSI GeForce GTX 1050 Ti DirectX 12 GTX 1050 Ti GAMING 4G 4GB 128-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready Video Card,199,3.99,203.98000000000002,0,0
+
+16,N82E16814487296,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487296,EVGA,EVGA GeForce GTX 1050 SC GAMING, 02G-P4-6152-KR, 2GB GDDR5, DX12 OSD Support (PXOC),139,4.99,144.98000000000002,0,0
+
+17,N82E16814125841,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125841,GIGABYTE,Gigabyte Ultra Durable 2 GV-R523D3-1GL (rev. 2.0) Radeon R5 230 Graphic Card - 625 MHz Core - 1 GB DDR3 SDRAM - PCI Express 2.0 - Low-profile - Single Slot Space Required,36,3.99,40.980000000000004,0,0
+
+18,N82E16814125900,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125900,GIGABYTE,GIGABYTE Ultra Durable 2 Series GeForce GT 710 DirectX 12 GV-N710D3-1GL REV2.0 1GB 64-Bit DDR3 PCI Express 2.0 Low Profile Video Card,39,3.99,43.980000000000004,0,0
+
+19,N82E16814487299,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487299,EVGA,EVGA GeForce GTX 1050 FTW GAMING ACX 3.0, 02G-P4-6157-KR, 2GB GDDR5, DX12 OSD Support (PXOC),149,4.99,154.98000000000002,0,0
+
+20,N82E16814133726,https://www.newegg.com/Product/Product.aspx?Item=N82E16814133726,PNY Technologies, Inc.,PNY GeForce GTX 1070 Ti DirectX 12 VCGGTX1070T8PB 8GB 256-Bit GDDR5 PCI Express 3.0 x16 SLI Support Video Card,459,4.99,464.98,0,0
+
+21,N82E16814125485,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125485,GIGABYTE,GIGABYTE GeForce 210 DirectX 10.1 GV-N210D3-1GI REV6.0 1GB 64-Bit DDR3 PCI Express 2.0 HDCP Ready Low Profile Video Card,37,3.99,41.980000000000004,0,0
+
+22,9SIA6ZP3R87698,https://www.newegg.com/Product/Product.aspx?Item=9SIA6ZP3R87698,EVGA,EVGA GeForce 8400 GS DirectX 10 01G-P3-1302-LR 1GB 64-Bit DDR3 PCI Express 2.0 x16 HDCP Ready Video Card,40,0,40.99,0,0
+
+23,N82E16814125987,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125987,GIGABYTE,GIGABYTE AORUS Xtreme GeForce GTX 1080 Ti Waterforce 11GD, GV-N108TAORUSXW-11GD,809,4.99,814.98,0,0
+
+24,N82E16814930001,https://www.newegg.com/Product/Product.aspx?Item=N82E16814930001,ASRock,ASRock Phantom Gaming Radeon RX 550 DirectX 12 RX550 2G 2GB 128-Bit GDDR5 PCI Express 3.0 x16 (Uses x8) HDCP Ready Video Card,99,3.99,103.97999999999999,0,0
+
+25,N82E16814127948,https://www.newegg.com/Product/Product.aspx?Item=N82E16814127948,MSI,MSI GeForce GTX 1070 DirectX 12 GTX 1070 AERO 8G OC 8GB 256-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support ATX Video Card,419,4.99,424.98,0,0
+
+26,N82E16814126246,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126246,ASUS,ASUS Radeon RX 550 DirectX 12 AREZ-PH-RX550-2G 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready CrossFireX Support Video Card,119,0,119.99,0,0
+
+27,N82E16814137320,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137320,MSI,MSI Radeon R7 240 DirectX 11.2 R7 240 2GD3 64b LP 2GB 64-Bit DDR3 HDCP Ready CrossFireX Support Low Profile Video Card,49,3.99,53.980000000000004,0,0
+
+28,N82E16814202277,https://www.newegg.com/Product/Product.aspx?Item=N82E16814202277,Sapphire Tech,Sapphire PULSE Radeon RX 580 4GB GDDR5 PCI-E Dual HDMI / DVI-D / Dual DP OC w/ Backplate (UEFI), 100411P4GOCL,279,4.99,284.98,0,0
+
+29,N82E16814500412,https://www.newegg.com/Product/Product.aspx?Item=N82E16814500412,ZOTAC,ZOTAC GeForce GTX 1050 DirectX 12 ZT-P10500A-10L 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini Video Card,139,4.99,144.98000000000002,0,0
+
+30,N82E16814125909,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125909,GIGABYTE,GIGABYTE GeForce GT 710 DirectX 12 GV-N710SL-1GL REV2.0 1GB 64-Bit GDDR3 PCI Express 2.0 Video Card,42,2.99,45.980000000000004,0,0
+
+31,N82E16814137056,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137056,MSI,MSI 131207 GeForce GTX 1050 Ti DirectX 12 GTX 1050 Ti 4G OC 4GB 128-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready Video Card,189,4.99,194.98000000000002,0,0
+
+32,N82E16814131713,https://www.newegg.com/Product/Product.aspx?Item=N82E16814131713,PowerColor,PowerColor RED DEVIL Radeon RX 580 DirectX 12 AXRX 580 8GBD5-3DH/OC 8GB 256-Bit GDDR5 PCI Express 3.0 CrossFireX Support ATX Video Card,279,4.99,284.98,0,0
+
+33,N82E16814125966,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125966,GIGABYTE,GIGABYTE Radeon RX 570 DirectX 12 GV-RX570GAMING-4GD 4GB 256-Bit GDDR5 PCI Express 3.0 x16 CrossFireX Support ATX Video Card,229,4.99,234.98000000000002,0,0
+
+34,N82E16814500402,https://www.newegg.com/Product/Product.aspx?Item=N82E16814500402,ZOTAC,ZOTAC GeForce GTX 1060 Mini, ZT-P10600A-10L, 6GB GDDR5 Super Compact,289,4.99,294.98,0,0
+
+35,N82E16814126243,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126243,ASUS,ASUS GeForce GTX 1060 PH-GTX1060-6G 6GB 192-Bit GDDR5 PCI Express 3.0 HDCP Ready Video Card,309,4.99,314.98,0,0
+
+36,N82E16814137095,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137095,MSI,MSI GeForce GTX 1060 DirectX 12 GTX 1060 6G OCV1 6GB 192-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready ATX Video Card,299,4.99,304.98,0,0
+
+0,N82E16814125955,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125955,GIGABYTE,GIGABYTE GeForce GTX 1080 Ti DirectX 12 GV-N108TGAMING OC-11GD 11GB 352-Bit GDDR5X PCI Express 3.0 x16 ATX Video Card,729,4.99,734.98,0,0
+
+1,N82E16814487280,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487280,EVGA,EVGA GeForce GTX 1060 DirectX 12 06G-P4-6262-KR 6GB 192-Bit GDDR5 PCI Express 3.0 Video Card,329,4.99,334.98,0,0
+
+2,9SIA6ZP56T5220,https://www.newegg.com/Product/Product.aspx?Item=9SIA6ZP56T5220,EVGA,EVGA GeForce GTX 1080 DirectX 12 08G-P4-6286-KR 8GB 256-Bit GDDR5X PCI Express 3.0 HDCP Ready SLI Support FTW GAMING ACX 3.0 Graphics Card,579,0,579.99,0,0
+
+3,N82E16814126186,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126186,ASUS,ASUS ROG GeForce GTX 1080 Ti DirectX 12 STRIX-GTX1080TI-O11G-GAMING 11GB 352-Bit GDDR5X PCI Express 3.0 HDCP Ready Video Card,829,4.99,834.98,0,0
+
+4,9SIA6ZP56T4801,https://www.newegg.com/Product/Product.aspx?Item=9SIA6ZP56T4801,EVGA,EVGA GeForce GTX 1080 GAMING ACX 3.0, 08G-P4-6181-KR, 8GB GDDR5X, LED, DX12 OSD Support (PXOC),0,0,0.99,0,0
+
+5,9SIA6ZP5R95696,https://www.newegg.com/Product/Product.aspx?Item=9SIA6ZP5R95696,EVGA,EVGA GeForce GTX 1080 Ti SC Black Edition GAMING, 11G-P4-6393-KR, 11GB GDDR5X, iCX Cooler & LED,0,0,0.99,0,0
+
+6,N82E16814137113,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137113,MSI,MSI GeForce GTX 1080 Ti DirectX 12 GeForce GTX 1080 Ti GAMING X 11G 11GB 352-Bit GDDR5X PCI Express 3.0 x16 HDCP Ready SLI Support Video Card,754,4.99,759.98,0,0
+
+7,N82E16814126122,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126122,ASUS,ASUS GeForce GTX 1060 DUAL-GTX1060-O6G 6GB 192-Bit GDDR5 PCI Express 3.0 HDCP Ready Video Card,319,0,319.99,0,0
+
+8,N82E16814487260,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487260,EVGA,EVGA GeForce GTX 1060 GAMING, ACX 2.0 (Single Fan), 06G-P4-6161-KR, 6GB GDDR5, DX12 OSD Support (PXOC), Only 6.8 Inches,289,4.99,294.98,0,0
+
+9,N82E16814131734,https://www.newegg.com/Product/Product.aspx?Item=N82E16814131734,PowerColor,PowerColor Radeon RX Vega 64 DirectX 12 AXRX VEGA 64 8GBHBM2-2D2H/OC 8GB 2048-Bit HBM2 PCI Express 3.0 CrossFireX Support ATX Video Card,599,4.99,604.98,0,0
+
+10,N82E16814202321,https://www.newegg.com/Product/Product.aspx?Item=N82E16814202321,Sapphire Tech,SAPPHIRE NITRO+ Radeon RX Vega 64 DirectX 12 100410NT+SR 8GB 2048-Bit HBM2 PCI Express 3.0 Video Card,569,4.99,574.98,0,0
+
+11,N82E16814500405,https://www.newegg.com/Product/Product.aspx?Item=N82E16814500405,ZOTAC,ZOTAC GeForce GTX 1060 Mini, ZT-P10610A-10L, 3GB GDDR5 Super Compact,229,4.99,234.98000000000002,0,0
+
+12,9SIA6ZP5HV3469,https://www.newegg.com/Product/Product.aspx?Item=9SIA6ZP5HV3469,EVGA,EVGA GeForce GTX 1080 SC2 GAMING iCX, 08G-P4-6583-KR, 8GB GDDR5X, 9 Thermal Sensors, Asynchronous Fan Control, Thermal Display LED System, Optimized Airflow Fin Design, Die Cast/Form Fitted Baseplate,0,0,0.99,0,0
+
+13,N82E16814487252,https://www.newegg.com/Product/Product.aspx?Item=N82E16814487252,EVGA,EVGA GeForce GTX 1080 FTW DT GAMING ACX 3.0, 8GB GDDR5X, RGB LED, 10CM FAN, 10 Power Phases, DX12, 08G-P4-6284-KR,429,0,429.99,0,0
+
+14,N82E16814202278,https://www.newegg.com/Product/Product.aspx?Item=N82E16814202278,Sapphire Tech,Sapphire PULSE Radeon RX 580 8GB GDDR5 PCI-E Dual HDMI / DVI-D / Dual DP OC w/ Backplate (UEFI), 100411P8GOCL,279,4.99,284.98,0,0
+
+15,N82E16814500431,https://www.newegg.com/Product/Product.aspx?Item=N82E16814500431,ZOTAC,ZOTAC GeForce GTX 1070 Ti DirectX 12 ZT-P10710G-10P 8GB 256-Bit GDDR5 PCI Express 3.0 Video Card - Mini,449,5.99,455.98,0,0
+
+16,N82E16814137055,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137055,MSI,MSI GeForce GTX 1050 Ti DirectX 12 GTX 1050 Ti 4GT OC 4GB 128-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready ATX Video Card,179,4.99,184.98000000000002,0,0
+
+17,N82E16814125961,https://www.newegg.com/Product/Product.aspx?Item=N82E16814125961,GIGABYTE,GIGABYTE AORUS Radeon RX 580 DirectX 12 GV-RX580AORUS-8GD 8GB 256-Bit GDDR5 PCI Express 3.0 x16 CrossFireX Support ATX Video Card,289,4.99,294.98,0,0
+
+18,N82E16814137111,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137111,MSI,MSI GeForce GTX 1080 Ti DirectX 12 GeForce GTX 1080 TI ARMOR 11G OC 11GB 352-Bit GDDR5X PCI Express 3.0 x16 HDCP Ready SLI Support Video Card,649,4.99,654.98,0,0
+
+19,N82E16814137090,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137090,MSI,MSI GeForce GTX 1050 DirectX 12 GTX 1050 AERO ITX 2G OC 2GB 128-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready Video Card,139,3.99,143.98000000000002,0,0
+
+20,N82E16814500403,https://www.newegg.com/Product/Product.aspx?Item=N82E16814500403,ZOTAC,ZOTAC GeForce GTX 1060 AMP!, ZT-P10600B-10M, 6GB GDDR5 Super Compact Dual-Fan IceStorm Cooling FREEZE Fan Stop,309,4.99,314.98,0,0
+
+21,N82E16814137290,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137290,MSI,MSI Radeon RX 580 DirectX 12 RX 580 ARMOR MK2 8G OC 8GB 256-Bit GDDR5 PCI Express x16 HDCP Ready CrossFireX Support Video Card,299,4.99,304.98,0,0
+
+22,9SIA6ZP56T5069,https://www.newegg.com/Product/Product.aspx?Item=9SIA6ZP56T5069,EVGA,EVGA GeForce GTX 1080 DirectX 12 08G-P4-5180-KR 8GB 256-Bit GDDR5X PCI Express 3.0 SLI Support GAMING Video Card,516,0,516.99,0,0
+
+23,N82E16814137081,https://www.newegg.com/Product/Product.aspx?Item=N82E16814137081,MSI,MSI GeForce GTX 1050 Ti DirectX 12 GTX 1050 TI 4GT LP 4GB 128-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready Low Profile Video Card,189,4.99,194.98000000000002,0,0
+
+24,N82E16814930007,https://www.newegg.com/Product/Product.aspx?Item=N82E16814930007,ASRock,ASRock Phantom Gaming X Radeon RX Vega 64 DirectX 12 VEGA 64 8G 8GB 2048-Bit HBM2 PCI Express 3.0 x16 HDCP Ready Video Card,579,4.99,584.98,0,0
+
+25,N82E16814126188,https://www.newegg.com/Product/Product.aspx?Item=N82E16814126188,ASUS,ASUS GeForce GTX 1080 Ti DirectX 12 TURBO-GTX1080TI-11G 11GB 352-Bit GDDR5X PCI Express 3.0 HDCP Ready SLI Support Video Card,779,4.99,784.98,0,0
+
